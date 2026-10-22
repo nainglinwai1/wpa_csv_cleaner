@@ -1,6 +1,6 @@
 # Oscilloscope CSV Cleaner
 
-A minimal Streamlit app that removes rows containing missing/non-numeric values and lets users download the cleaned CSV.
+A minimal Streamlit app that removes rows containing missing/non-numeric values and lets users download the cleaned CSV. Multiple files can be uploaded at once; each is cleaned and previewed in its own tab, with a ZIP download for all results.
 
 ## Run locally
 
